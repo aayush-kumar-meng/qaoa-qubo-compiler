@@ -1,3 +1,4 @@
+import pytest
 
 from qaoa_qubo.qubo import QUBOProblem
 from qaoa_qubo.hamiltonian import qubo_to_ising
